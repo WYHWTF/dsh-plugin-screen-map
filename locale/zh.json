@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "屏幕地图",
+    "description": "把 screen_read 的冗长 UI 树压成紧凑地图，保留元素 id 与坐标，读屏 token 大幅下降。"
+  }
+}

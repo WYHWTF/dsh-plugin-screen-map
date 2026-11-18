@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Screen map",
+    "description": "Compacts verbose screen_read UI trees into a dense map that keeps element ids and coordinates."
+  }
+}
